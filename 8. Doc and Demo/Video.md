@@ -1,1 +1,1 @@
-[![Watch the video](8.%20Doc%20and%20Demo/thumbnail.png)](https://drive.google.com/file/d/1Fn60ZoLcSZ1yjY_cKFfmX_V3nG5SJDuO/view?usp=sharing)
+[![Watch the video](https://github.com/gurupreetam9/CRM-application-for-Jewel-Management/blob/main/8.%20Doc%20and%20Demo/thumbnail.png)](https://drive.google.com/file/d/1Fn60ZoLcSZ1yjY_cKFfmX_V3nG5SJDuO/view?usp=sharing)
